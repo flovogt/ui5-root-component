@@ -25,4 +25,4 @@ Run `npm run test` to execute the test suite
 Run `npm run build` to build a bundle
 
 ## Deployment
-Run `npm run serve` to host a local webserver with the built applictaion
+Run `npm run serve` to host a local webserver with the built application
